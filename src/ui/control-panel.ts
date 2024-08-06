@@ -10,7 +10,7 @@ class ControlPanel extends Panel {
     constructor(events: Events, remoteStorageMode: boolean, args = { }) {
         args = {
             ...args,
-            headerText: `SUPERSPLAT v${appVersion}`,
+            headerText: `Editor v${appVersion}`,
             id: 'control-panel',
             resizable: 'right',
             resizeMax: 1000,

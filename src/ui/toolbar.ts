@@ -193,7 +193,7 @@ class Toolbar extends Container {
             icon: 'E259' 
         });
         github.on('click', () => {
-            window.open('https://github.com/playcanvas/supersplat', '_blank').focus();
+            window.open('https://github.com/JJponciano/gs_editor', '_blank').focus();
         });
 
         // toolbar help toolbar
