@@ -1,7 +1,7 @@
 # Editor
 ```sh
 git clone https://github.com/JJponciano/gs_editor
-cd supersplat
+cd gs_editor
 npm i
 npm run develop
 ```
